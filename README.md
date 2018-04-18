@@ -1,6 +1,6 @@
-Lattice multiplication
+<b>Lattice multiplication</b>
 
-La multiplication par Jalousies
+<b>La multiplication par Jalousies</b>
 
 
 https://fr.wikipedia.org/wiki/Technique_de_la_multiplication_par_jalousies
